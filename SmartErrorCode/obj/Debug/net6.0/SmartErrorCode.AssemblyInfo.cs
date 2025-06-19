@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartErrorCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b8a57fcb5f2cf2e46fee3a8a824eb991bb5091")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c8715ecad1f249bfcde0e8e4581055a9bbb05f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartErrorCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartErrorCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
