@@ -1,0 +1,14 @@
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\bin\Debug\net6.0\SmartDomain.deps.json
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\bin\Debug\net6.0\SmartDomain.runtimeconfig.json
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\bin\Debug\net6.0\SmartDomain.dll
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\bin\Debug\net6.0\SmartDomain.pdb
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.csproj.AssemblyReference.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.AssemblyInfoInputs.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.AssemblyInfo.cs
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.csproj.CoreCompileInputs.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.dll
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\refint\SmartDomain.dll
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.pdb
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\SmartDomain.genruntimeconfig.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartDomain\obj\Debug\net6.0\ref\SmartDomain.dll

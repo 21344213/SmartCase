@@ -1,0 +1,14 @@
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\bin\Debug\net6.0\SmartErrorCode.deps.json
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\bin\Debug\net6.0\SmartErrorCode.runtimeconfig.json
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\bin\Debug\net6.0\SmartErrorCode.dll
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\bin\Debug\net6.0\SmartErrorCode.pdb
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.csproj.AssemblyReference.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.AssemblyInfoInputs.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.AssemblyInfo.cs
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.csproj.CoreCompileInputs.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.dll
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\refint\SmartErrorCode.dll
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.pdb
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\SmartErrorCode.genruntimeconfig.cache
+D:\项目\新建文件夹\专高六\SmartCase\SmartErrorCode\obj\Debug\net6.0\ref\SmartErrorCode.dll
