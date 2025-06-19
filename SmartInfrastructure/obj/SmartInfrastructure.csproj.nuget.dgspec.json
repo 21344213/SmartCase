@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\cassss\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj": {}
+    "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj": {}
   },
   "projects": {
-    "E:\\cassss\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj": {
+    "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cassss\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj",
+        "projectUniqueName": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj",
         "projectName": "ISmartInfrasture",
-        "projectPath": "E:\\cassss\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj",
-        "packagesPath": "C:\\Users\\26949\\.nuget\\packages\\",
-        "outputPath": "E:\\cassss\\SmartCase\\ISmartInfrasture\\obj\\",
+        "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj",
+        "packagesPath": "C:\\Users\\23194\\.nuget\\packages\\",
+        "outputPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartInfrasture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\课程\\罗镜 1\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\26949\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\23194\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\cassss\\SmartCase\\SmartDomain\\SmartDomain.csproj": {
-                "projectPath": "E:\\cassss\\SmartCase\\SmartDomain\\SmartDomain.csproj"
+              "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartDomain\\SmartDomain.csproj": {
+                "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartDomain\\SmartDomain.csproj"
               }
             }
           }
@@ -48,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -91,24 +91,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\cassss\\SmartCase\\SmartDomain\\SmartDomain.csproj": {
+    "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartDomain\\SmartDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cassss\\SmartCase\\SmartDomain\\SmartDomain.csproj",
+        "projectUniqueName": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartDomain\\SmartDomain.csproj",
         "projectName": "SmartDomain",
-        "projectPath": "E:\\cassss\\SmartCase\\SmartDomain\\SmartDomain.csproj",
-        "packagesPath": "C:\\Users\\26949\\.nuget\\packages\\",
-        "outputPath": "E:\\cassss\\SmartCase\\SmartDomain\\obj\\",
+        "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartDomain\\SmartDomain.csproj",
+        "packagesPath": "C:\\Users\\23194\\.nuget\\packages\\",
+        "outputPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\课程\\罗镜 1\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\26949\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\23194\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,7 +117,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -135,7 +134,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -178,24 +178,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\cassss\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj": {
+    "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cassss\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj",
+        "projectUniqueName": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj",
         "projectName": "SmartInfrastructure",
-        "projectPath": "E:\\cassss\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj",
-        "packagesPath": "C:\\Users\\26949\\.nuget\\packages\\",
-        "outputPath": "E:\\cassss\\SmartCase\\SmartInfrastructure\\obj\\",
+        "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartInfrastructure\\SmartInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\23194\\.nuget\\packages\\",
+        "outputPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmartInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\课程\\罗镜 1\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\26949\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\23194\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -204,15 +204,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\cassss\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj": {
-                "projectPath": "E:\\cassss\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj"
+              "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj": {
+                "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartInfrasture\\ISmartInfrasture.csproj"
               }
             }
           }
@@ -226,7 +225,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -269,7 +269,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

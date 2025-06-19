@@ -34,6 +34,11 @@ namespace SmartCore.Controllers
             return await ApperovalServices.GetAll();
         }
 
+        public async Task<List<Apperoal>> DeleteAll(int id)
+        {
+            return await ApperovalServices.GetAll();
+        }
+
         [HttpPut("PutAll")]
         public async Task<List<Apperoal>> PutAll()
         {
