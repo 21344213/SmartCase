@@ -2104,23 +2104,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\23194\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\26949\\.nuget\\packages\\": {},
+    "D:\\课程\\罗镜 1\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmaryServices\\SmartServices.csproj",
+      "projectUniqueName": "E:\\cassss\\SmartCase\\SmaryServices\\SmartServices.csproj",
       "projectName": "SmartServices",
-      "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmaryServices\\SmartServices.csproj",
-      "packagesPath": "C:\\Users\\23194\\.nuget\\packages\\",
-      "outputPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\SmaryServices\\obj\\",
+      "projectPath": "E:\\cassss\\SmartCase\\SmaryServices\\SmartServices.csproj",
+      "packagesPath": "C:\\Users\\26949\\.nuget\\packages\\",
+      "outputPath": "E:\\cassss\\SmartCase\\SmaryServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\课程\\罗镜 1\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\23194\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\26949\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2129,14 +2129,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartServices\\ISmartServices.csproj": {
-              "projectPath": "D:\\项目\\新建文件夹\\专高六\\SmartCase\\ISmartServices\\ISmartServices.csproj"
+            "E:\\cassss\\SmartCase\\ISmartServices\\ISmartServices.csproj": {
+              "projectPath": "E:\\cassss\\SmartCase\\ISmartServices\\ISmartServices.csproj"
             }
           }
         }
@@ -2150,8 +2151,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net6.0": {
@@ -2194,7 +2194,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

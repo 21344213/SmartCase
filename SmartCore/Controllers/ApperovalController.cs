@@ -39,7 +39,10 @@ namespace SmartCore.Controllers
         {
             return await ApperovalServices.GetAll();
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         [HttpPatch("PatchAll")]
         public async Task<List<Apperoal>> PatchAll()
         {

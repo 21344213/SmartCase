@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB63EC9-9AF0-4D5B-B62D-EDA3EAD61172}|WebApplication1\\WebApplication1.csproj|d:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\smartcase\\webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DB63EC9-9AF0-4D5B-B62D-EDA3EAD61172}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1F6C9-A777-4CFE-969C-0D9E07A9DB87}|SmartCore\\SmartCore.csproj|d:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\smartcase\\smartcore\\controllers\\apperovalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1F6C9-A777-4CFE-969C-0D9E07A9DB87}|SmartCore\\SmartCore.csproj|solutionrelative:smartcore\\controllers\\apperovalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F1F6C9-A777-4CFE-969C-0D9E07A9DB87}|SmartCore\\SmartCore.csproj|d:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\smartcase\\smartcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F1F6C9-A777-4CFE-969C-0D9E07A9DB87}|SmartCore\\SmartCore.csproj|solutionrelative:smartcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\WebApplication1\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication1\\Dockerfile",
+              "ToolTip": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\WebApplication1\\Dockerfile",
+              "RelativeToolTip": "WebApplication1\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-09T02:42:24.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApperovalController.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\SmartCore\\Controllers\\ApperovalController.cs",
+              "RelativeDocumentMoniker": "SmartCore\\Controllers\\ApperovalController.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\SmartCore\\Controllers\\ApperovalController.cs",
+              "RelativeToolTip": "SmartCore\\Controllers\\ApperovalController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvxoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:07:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\SmartCore\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCore\\Program.cs",
+              "ToolTip": "D:\\\u9879\u76EE\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u4E13\u9AD8\u516D\\SmartCase\\SmartCore\\Program.cs",
+              "RelativeToolTip": "SmartCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:06:34.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
