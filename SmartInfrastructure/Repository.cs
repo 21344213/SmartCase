@@ -18,6 +18,21 @@ namespace SmartInfrastructure
 
         public BaseDataDbContext Context { get; }
 
+        public async Task<bool> AddAsync(T t)
+        {
+            try
+            {
+                await Context.Set<T>().AddAsync(t);
+                var result = await Context.SaveChangesAsync();
+                return result > 1 ? true : false;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
         public async Task<List<T>> GetAll()
         {
             return await Context.Set<T>().AsNoTracking().ToListAsync();
